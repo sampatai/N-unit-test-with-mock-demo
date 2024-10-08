@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Working\\sampat\\NUnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|c:\\working\\sampat\\nunittest\\nunittest\\nunittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|solutionrelative:nunittest\\nunittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|c:\\working\\sampat\\nunittest\\nunittest\\test\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|solutionrelative:nunittest\\test\\productrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|c:\\working\\sampat\\nunittest\\nunittest\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|solutionrelative:nunittest\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|c:\\working\\sampat\\nunittest\\nunittest\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|solutionrelative:nunittest\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|c:\\working\\sampat\\nunittest\\nunittest\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|solutionrelative:nunittest\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|c:\\working\\sampat\\nunittest\\nunittest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3396B45B-D430-4FF9-8A72-3E468C0D4F1F}|NUnitTest\\NUnitTest.csproj|solutionrelative:nunittest\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NUnitTest",
+              "DocumentMoniker": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\NUnitTest.csproj",
+              "RelativeDocumentMoniker": "NUnitTest\\NUnitTest.csproj",
+              "ToolTip": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\NUnitTest.csproj",
+              "RelativeToolTip": "NUnitTest\\NUnitTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T08:43:20.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\Test\\ProductRepositoryTests.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\Test\\ProductRepositoryTests.cs",
+              "ToolTip": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\Test\\ProductRepositoryTests.cs",
+              "RelativeToolTip": "NUnitTest\\Test\\ProductRepositoryTests.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwC8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:19:52.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\ProductRepository.cs",
+              "ToolTip": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\ProductRepository.cs",
+              "RelativeToolTip": "NUnitTest\\ProductRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:18:19.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\Product.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\Product.cs",
+              "ToolTip": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\Product.cs",
+              "RelativeToolTip": "NUnitTest\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:17:45.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\IProductRepository.cs",
+              "ToolTip": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\IProductRepository.cs",
+              "RelativeToolTip": "NUnitTest\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:16:52.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\Class1.cs",
+              "RelativeDocumentMoniker": "NUnitTest\\Class1.cs",
+              "ToolTip": "C:\\Working\\sampat\\NUnitTest\\NUnitTest\\Class1.cs",
+              "RelativeToolTip": "NUnitTest\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T06:16:32.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
